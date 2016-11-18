@@ -1,1 +1,5 @@
-﻿Method aMethod bMethod c {		}
+Method aMethod bMethod c {		}
+
+method d {
+
+}
