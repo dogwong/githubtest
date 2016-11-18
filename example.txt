@@ -1,9 +1,1 @@
-Method aMethod bMethod c {		}
-
-method d {
-
-
-
-method e {
-
-}
+Method aMethod bMethod c {		}method d {	hihi();	}method e {}
