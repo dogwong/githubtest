@@ -1,1 +1,1 @@
-﻿Method aMethod bMethod c {		}
+﻿Method aMethod bMethod c {	doSomething();	hihi();}hihi () {	}
